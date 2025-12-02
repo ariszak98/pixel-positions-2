@@ -78,4 +78,7 @@ Installing JS Dependancies && firing up the node server
 24. php artisan make:job <job_name>
     Creates a new Job class
 
-25. 
+25. rm public/hot
+    Removes the "public/hot" file that is created after a "npm run dev" in order to run "npm run build"
+
+26. 
