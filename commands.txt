@@ -81,4 +81,7 @@ Installing JS Dependancies && firing up the node server
 25. rm public/hot
     Removes the "public/hot" file that is created after a "npm run dev" in order to run "npm run build"
 
-26. 
+26. php artisan make:test <test_name>
+    Creates a test
+
+27. 
